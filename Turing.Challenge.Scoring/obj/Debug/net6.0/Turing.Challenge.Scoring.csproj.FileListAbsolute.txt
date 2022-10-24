@@ -1,0 +1,15 @@
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\bin\Debug\net6.0\Turing.Challenge.Scoring.exe
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\bin\Debug\net6.0\Turing.Challenge.Scoring.deps.json
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\bin\Debug\net6.0\Turing.Challenge.Scoring.runtimeconfig.json
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\bin\Debug\net6.0\Turing.Challenge.Scoring.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\bin\Debug\net6.0\Turing.Challenge.Scoring.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.csproj.AssemblyReference.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.AssemblyInfoInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.AssemblyInfo.cs
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.csproj.CoreCompileInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\refint\Turing.Challenge.Scoring.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\Turing.Challenge.Scoring.genruntimeconfig.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenge.Scoring\obj\Debug\net6.0\ref\Turing.Challenge.Scoring.dll

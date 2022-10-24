@@ -1,0 +1,15 @@
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\bin\Debug\net6.0\Turing.Challenges.exe
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\bin\Debug\net6.0\Turing.Challenges.deps.json
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\bin\Debug\net6.0\Turing.Challenges.runtimeconfig.json
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\bin\Debug\net6.0\Turing.Challenges.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\bin\Debug\net6.0\Turing.Challenges.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.csproj.AssemblyReference.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.AssemblyInfoInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.AssemblyInfo.cs
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.csproj.CoreCompileInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\refint\Turing.Challenges.dll
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\Turing.Challenges.genruntimeconfig.cache
+E:\src\ConsoleApp\GeneticAlgorithm\Turing.Challenges\obj\Debug\net6.0\ref\Turing.Challenges.dll

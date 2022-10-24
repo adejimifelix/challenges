@@ -1,0 +1,15 @@
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.exe
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.deps.json
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.runtimeconfig.json
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.dll
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.AssemblyReference.cache
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfoInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfo.cs
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.dll
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\refint\HttpClientDemo.dll
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.genruntimeconfig.cache
+E:\src\ConsoleApp\GeneticAlgorithm\HttpClientDemo\obj\Debug\net6.0\ref\HttpClientDemo.dll

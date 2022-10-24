@@ -1,0 +1,15 @@
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.exe
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.deps.json
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.runtimeconfig.json
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.dll
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\net6.0\GeneticAlgorithm.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.csproj.AssemblyReference.cache
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfoInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.AssemblyInfo.cs
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.dll
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\refint\GeneticAlgorithm.dll
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.pdb
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\GeneticAlgorithm.genruntimeconfig.cache
+E:\src\ConsoleApp\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\net6.0\ref\GeneticAlgorithm.dll
